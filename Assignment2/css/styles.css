@@ -12,8 +12,7 @@ h1 {
 
 .box{
   position: relative;
-  padding-top: 20px;
-  padding:10px 20px 10px 0px;
+  padding:20px 5px 5px 5px;
   margin: 5px;
   background-color: grey;
   border: 1px solid black;
