@@ -1,16 +1,44 @@
 *{
-
+  font-family:Arial, Verdana, Sans-serif;
   box-sizing: border-box;
 }
 h1 {
   text-align: center;
+  font-weight: bold;
 }
 
 .box{
-
-  margin: 5px;
+  position: relative;
+  padding:15px;
+  background-color:gray;
 }
 
+.topright{
+  position: absolute;
+  top:0;
+  right:0;
+
+  border: 1px solid black;
+  padding: 5px 10px 5px 10px;
+  font-weight: bold;
+}
+#color1{
+
+    background-color:green;
+    color:white;
+}
+
+#color2{
+
+    background-color:blue;
+    color:white;
+}
+
+#color3{
+
+   background-color: red;
+   color:white;
+ }
 
 /* Desktop view */
 
